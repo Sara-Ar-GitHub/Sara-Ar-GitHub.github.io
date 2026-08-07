@@ -23,7 +23,7 @@ mechanically verified with AVISPA and ProVerif.
 
 **Detection.** I build learning-based detectors for attacks on grid measurements. My topology-aware
 approach models the power grid as a graph and applies Graph Neural Networks over AC power flow
-data, reaching an F1-score of 94.2 % on the IEEE-14 bus system, with GNNExplainer identifying
+data, reaching an F1-score of 94.2 % with GNNExplainer identifying
 which buses drove each decision — because an alert an operator cannot interpret is an alert they
 cannot act on.
 
