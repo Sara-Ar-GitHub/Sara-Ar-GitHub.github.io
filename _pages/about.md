@@ -52,7 +52,7 @@ Springer *Advances in Intelligent Systems and Computing*, vol. 1469 (in press).
 ## Currently
 
 Looking for a postdoctoral position in smart grid security, applied cryptography for constrained
-devices, or machine learning for cyber-physical system protection. Available from [date].
+devices, or machine learning for cyber-physical system protection. Available from January 2027.
 
 [CV](/files/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=ZTpsAIkAAAAJ) ·
 [ORCID](https://orcid.org/0009-0004-4370-1373) ·
