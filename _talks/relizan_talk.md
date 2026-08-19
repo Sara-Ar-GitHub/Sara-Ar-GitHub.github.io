@@ -1,11 +1,11 @@
 ---
-title: "Topology-Aware Cyberattack Detection in Smart Grids Using Explainable Graph Neural Networks"
+title: "Lightweight Machine Learning for Anomaly Detection in Smart Meter Time-Series: A Comparative Study of Classical Models"
 collection: talks
-type: "The Third National Conference on Applications of Artificial Intelligence (A2I-26)"
+type: "AIDaM’26 – 1st National Conference on Artificial Intelligence and Data Management"
 permalink: /talks/2014-02-01-talk-2
-venue: "M'Hamed BOUGARA University, Boumerdes"
-date: April 15, 2026
-location: "Boumerdes, Algeria"
+venue: "University Ahmed Zabana of Relizane, Algeria"
+date: April 20, 2026
+location: "Relizane, Algeria"
 ---
 
-Smart grids integrate advanced sensing and communication technologies that improve power system efficiency but also increase vulnerability to cyberattacks. Detecting such attacks is challenging because electrical measurements are strongly interconnected through the grid topology. This paper proposes a graph-based cyberattack detection framework using Graph Neural Networks (GNNs). The power grid is modeled as a graph and a dataset is generated from AC power flow simulations of the IEEE-14 bus system using the pandapower framework, where multiple attack scenarios are injected into electrical measurements. Three architectures—GAT, GCN, and GraphSAGE—are evaluated. Experimental results show that GraphSAGE achieves the best performance with an F1-score of about 94% and a ROC-AUC close to 0.97. To improve transparency, GNNExplainer is used to identify the buses contributing most to attack detection, providing interpretable insights for smart grid monitoring.
+Smart grids rely on large-scale smart meter deployments to ensure efficient energy management and monitoring. However, abnormal consumption behaviors caused by device malfunction, cyber-attacks, or system disturbances may compromise grid stability and reliability. This paper proposes a lightweight anomaly detection framework for smart meter time-series data using classical machine learning models. The study is conducted on the publicly available Electricity Load Diagrams 2011–2014 dataset, where synthetic anomalies (spike, drop, drift, and noise burst) are injected to simulate realistic abnormal consumption scenarios. A feature-based approach is adopted using statistical and temporal descriptors extracted from sliding windows. Three lightweight models are evaluated: Isolation Forest, One-Class Support Vector Machine (OC-SVM), and Random Forest. Experimental results demonstrate that the supervised Random Forest model achieves the best performance with an AUC of 0.932 and a recall of 0.676 on anomalous samples, significantly outperforming unsupervised alternatives. Feature importance analysis further reveals that variability and distribution-shape features are more discriminative than absolute consumption levels. The results confirm that lightweight classical machine learning remains an effective and practical solution for smart grid anomaly detection.
