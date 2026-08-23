@@ -1,4 +1,3 @@
-
 ---
 title: "IT Security"
 collection: teaching
