@@ -1,12 +1,14 @@
+
 ---
-title: "Teaching experience 2"
+title: "IT Security"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Bachelor"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Guelma University, Department of Computer Science"
+date: 2024
+location: "Guelma, Algeria"
 ---
+
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
