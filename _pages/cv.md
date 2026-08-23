@@ -17,10 +17,13 @@ Education
 ======
 * **Ph.D. in Computer Science**, University of 8 May 1945 Guelma, LabSTIC Laboratory.
   Thesis: *Cyberattack Detection in Smart Grid Networks*. Submitted; defence expected winter 2026-2027.
-<!-- TODO Sarra: add the two lines below with the real titles, universities and years, then delete these comments.
-* **Master's degree in [title]**, [university], [years].
-* **Licence in [title]**, [university], [years].
--->
+* **Master's degree in Computer Science — Information Systems**,
+   Higher National School of Computer Science (ESI — École nationale Supérieure d'Informatique,
+  ex-INI), Algiers, Algeria, 2013.
+* **State Engineer's degree in Computer Science — Information Systems**,
+   Higher National School of Computer Science (ESI — École nationale Supérieure d'Informatique,
+  ex-INI), Algiers, Algeria, 2008–2013.
+  
 
 Research experience
 ======
@@ -41,6 +44,17 @@ Research experience
   a hard safety envelope, and symbolic distillation of the learned dynamics scored against ground truth.
   [Details](/portfolio/).
 
+
+Professional experience
+======
+* **Principal Inspector of Specialised Technology** (*Inspecteur principal de technique spécialisée*),
+  Direction of National Transmissions (*Direction des Transmissions Nationales*), Guelma Province,
+  Algeria. December 2015 – present.
+  Operation, maintenance and supervision of the province's transmission and telecommunications
+  infrastructure. Doctoral research carried out in parallel with this post; ten years of daily contact
+  with a live networked infrastructure inform the modelling assumptions behind my research on
+  networked physical systems.
+
 Technical skills
 ======
 * **Machine learning**: PyTorch, graph neural networks (GCN, GAT, GraphSAGE), deep ensembles,
@@ -56,7 +70,7 @@ Technical skills
 Languages
 ======
 * Arabic, French, English.
-<!-- TODO Sarra: add proficiency levels, and any certificate or score (IELTS/TOEFL) if you have one. -->
+
 
 Publications
 ======
@@ -78,5 +92,5 @@ Teaching
 
 Service
 ======
-* Reviewer and student member activities, and any awards, go here.
-<!-- TODO Sarra: list reviewing activity, society memberships, scholarships or awards - or delete this whole section. -->
+* Reviewer and student member activities.
+
