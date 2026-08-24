@@ -42,6 +42,7 @@ Research experience
 * **Research prototype: LAPLACE** (2026). An end-to-end closed discovery loop on a simulated 118-bus
   transmission network: uncertainty-aware graph world model, curiosity-driven experiment selection under
   a hard safety envelope, and symbolic distillation of the learned dynamics scored against ground truth.
+  Openly archived and citable: [https://doi.org/10.5281/zenodo.22081404](https://doi.org/10.5281/zenodo.22081404).
   [Details](/portfolio/).
 
 
