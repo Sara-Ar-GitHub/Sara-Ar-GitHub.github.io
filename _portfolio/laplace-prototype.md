@@ -4,7 +4,7 @@ excerpt: "An agent that builds an uncertainty-aware model of a 118-bus power net
 collection: portfolio
 ---
 
-LAPLACE [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081404.svg)](https://doi.org/10.5281/zenodo.22081404) is a small end-to-end prototype of a closed scientific discovery loop, built on a simulated 118-bus transmission network (`pandapower` case118). The loop runs from model to experiment to law:
+LAPLACE is a small end-to-end prototype of a closed scientific discovery loop, built on a simulated 118-bus transmission network (`pandapower` case118). The loop runs from model to experiment to law:
 
 * a **world model** - a message-passing graph neural network, implemented in plain PyTorch - predicts the electrical state of the network;
 * a **deep ensemble** turns the model's disagreement into a usable measure of its own ignorance;
