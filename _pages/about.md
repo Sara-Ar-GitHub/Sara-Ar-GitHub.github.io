@@ -40,7 +40,7 @@ for smart-grid IoT devices.**
 
 **Q-PUFAuth: Quantum-Resistant PUF-Based Authentication and Key Agreement for Secure Smart Grids.**
 Springer *Communications in Computer and Information Science*, vol. 2818 (in press).
-[Volume](https://link.springer.com/book/9783032267191) · [Preprint](#)
+[Volume](https://link.springer.com/book/9783032267191) · [Preprint](files/Q_PUFAuth.pdf)
 
 **Digital Twin–Driven Unsupervised Anomaly Detection Framework for Cyber-Physical Threats in
 Smart Grids.**
