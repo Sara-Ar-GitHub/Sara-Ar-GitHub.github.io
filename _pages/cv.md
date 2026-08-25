@@ -48,7 +48,7 @@ Research experience
 
 Professional experience
 ======
-* **Principal Inspector of Specialised Technology** (*Inspecteur principal de technique spécialisée*),
+* **Principal Specialised Technical Inspector**,
   Direction of National Transmissions (*Direction des Transmissions Nationales*), Guelma Province,
   Algeria. December 2015 – present.
   Operation, maintenance and supervision of the province's transmission and telecommunications
