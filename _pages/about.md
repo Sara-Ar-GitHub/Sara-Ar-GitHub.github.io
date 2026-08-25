@@ -45,7 +45,7 @@ Springer *Communications in Computer and Information Science*, vol. 2818 (in pre
 **Digital Twin–Driven Unsupervised Anomaly Detection Framework for Cyber-Physical Threats in
 Smart Grids.**
 Springer *Advances in Intelligent Systems and Computing*, vol. 1469 (in press).
-[Volume](https://link.springer.com/book/9783032299857) · [Preprint](#)
+[Volume](https://link.springer.com/book/9783032299857) · [Preprint](files/manuscript_9.pdf)
 
 [Full publication list](/publications/)
 
