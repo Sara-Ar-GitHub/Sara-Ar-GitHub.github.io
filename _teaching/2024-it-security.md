@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "Guelma, Algeria"
 ---
 
-Tutorial and laboratory sessions covering symmetric and public-key cryptography, hash functions, authentication and key agreement, access control, and common network attacks and countermeasures.
+Tutorial sessions covering symmetric and public-key cryptography, hash functions, access control, and common network attacks and countermeasures.
