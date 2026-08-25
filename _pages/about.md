@@ -36,7 +36,7 @@ can catch.
 **PSUL-SG: A provably secure ultra-lightweight mutual authentication and key agreement protocol
 for smart-grid IoT devices.**
 *Computers and Electrical Engineering*, vol. 135, art. 111172, 2026. Elsevier.
-[DOI](https://doi.org/10.1016/j.compeleceng.2026.111172) · [Code](#)
+[DOI](https://doi.org/10.1016/j.compeleceng.2026.111172) 
 
 **Q-PUFAuth: Quantum-Resistant PUF-Based Authentication and Key Agreement for Secure Smart Grids.**
 Springer *Communications in Computer and Information Science*, vol. 2818 (in press).
