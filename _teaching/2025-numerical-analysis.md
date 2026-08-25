@@ -8,4 +8,4 @@ date: 2025-09-01
 location: "Guelma, Algeria"
 ---
 
-Tutorial and laboratory sessions on interpolation, numerical integration, root finding, direct and iterative solution of linear systems, and error and stability analysis, with implementation work in Python.
+Laboratory sessions on interpolation, numerical integration, root finding, direct and iterative solution of linear systems, and error and stability analysis, with implementation work in Python.
