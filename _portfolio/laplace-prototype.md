@@ -1,5 +1,6 @@
 ---
 title: "LAPLACE: a working prototype of a closed discovery loop"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081404.svg)](https://doi.org/10.5281/zenodo.22081404)
 excerpt: "An agent that builds an uncertainty-aware model of a 118-bus power network, chooses its own experiments under a hard safety envelope, and distils what it learns into symbolic equations scored against ground truth."
 collection: portfolio
 ---
