@@ -35,9 +35,7 @@ Research experience
     leakage-free comparative study of lightweight models on real smart-meter time series.
   * *Provably secure protocols for constrained grid devices.* PSUL-SG, an ultra-lightweight PUF-based
     authentication and key agreement protocol (0.355 ms, 960 bits, 0.0117 mJ per session on the meter
-    side); ED-MAKA, elliptic-curve authentication with DNA-based obfuscation; Q-PUFAuth, a lattice-based
-    post-quantum successor. All verified formally, under the Random Oracle and Real-or-Random models and
-    mechanically with AVISPA and ProVerif.
+    side); Q-PUFAuth, a lattice-based     post-quantum successor. All verified formally, under the Random Oracle and Real-or-Random models and mechanically with AVISPA and ProVerif.
 
 * **Research prototype: LAPLACE** (2026). An end-to-end closed discovery loop on a simulated 118-bus
   transmission network: uncertainty-aware graph world model, curiosity-driven experiment selection under
