@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at the [LabSTIC Laboratory](https://www.univ-guelma.dz/),
 University of 8 Mai 1945 Guelma, Algeria. My thesis has been submitted and my defence is expected
-in Winter 2026-2027.
+in autumn 2026.
 
 I work on the security of smart grids from two sides that are usually studied separately.
 
