@@ -16,7 +16,7 @@ constrained devices that instrument them.
 Education
 ======
 * **Ph.D. in Computer Science**, University of 8 May 1945 Guelma, LabSTIC Laboratory.
-  Thesis: *Cyberattack Detection in Smart Grid Networks*. Submitted; defence expected winter 2026-2027.
+  Thesis: *Cyberattack Detection in Smart Grid Networks*. Submitted; defence expected autumn 2026.
 * **Master's degree in Computer Science — Information Systems**,
    Higher National School of Computer Science (ESI — École nationale Supérieure d'Informatique,
   ex-INI), Algiers, Algeria, 2013.
